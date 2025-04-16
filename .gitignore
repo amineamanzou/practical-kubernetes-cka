@@ -1,0 +1,16 @@
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# Hugo Modules
+_vendor/
+go.sum
+# If you installed themes as git submodules, uncomment the following line
+# themes/
+
+# OS/Editor files
+.DS_Store
+*.swp
+*~
+._*
